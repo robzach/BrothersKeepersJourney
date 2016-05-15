@@ -1,0 +1,17 @@
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/obj/Debug/Assembly-CSharp.dll
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/Temp/bin/Debug/UnityEngine.dll
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/Temp/bin/Debug/UnityEditor.dll
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/Temp/bin/Debug/Mono.Cecil.dll
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/Temp/bin/Debug/Unity.DataContract.dll
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/rz/Documents/CMU/Urban Intervention/3d/look around the room/Temp/bin/Debug/Mono.Cecil.Mdb.dll
